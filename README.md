@@ -263,8 +263,6 @@ This project was inspired and guided by the following resources:
 - **🔍 MongoDB Atlas Search:**  
   [MongoDB Atlas Search Documentation](https://www.mongodb.com/docs/atlas/atlas-search/)
 
----
-### 🏆 ***“Building scalable systems isn’t just about code — it’s about curiosity, consistency, and craft.”***
 
 
 
